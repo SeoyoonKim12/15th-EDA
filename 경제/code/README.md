@@ -1,3 +1,5 @@
+#### 코드 설명
+
 ## exchange_rate_basic.ipynb
 USD/KRW 환율 과 달러 인덱스의 비교 / 통계 분석
 외환보유고량 비교
@@ -19,3 +21,4 @@ USD/KRW 환율 과 달러 인덱스의 비교 / 통계 분석
 
 ## residual_macro_analysis.ipynb
 환율 공포지수로 설명이 안되는 환율의 움직을 설명하기 위한 거시 경제 지표 분석
+
